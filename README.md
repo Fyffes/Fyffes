@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there im Fyffes. Will make this soon
 
 <!--
 **Fyffes/Fyffes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
