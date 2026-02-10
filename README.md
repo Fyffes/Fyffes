@@ -1,7 +1,7 @@
 # <p align="center">Hi, I'm Fyffes 👋</p>
 
 <p align="center">
-  <img src="banner.gif" alt="Banner" width="100%">
+  <img src="https://cdn.discordapp.com/attachments/1208458170394218517/1470102761172500510/banner.gif?ex=698cb663&is=698b64e3&hm=a93e8fb03d3e87ad943141be668c2b22f5bd0f4d8fc35d50a19798fe75ad7b26&" alt="Banner" width="100%">
 </p>
 
 <p align="center">
