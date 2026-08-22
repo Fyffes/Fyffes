@@ -11,7 +11,7 @@
 ---
 
 ### 👤 Profile & About Me
-Hello, my name is Fyffes. I come from Munich and enjoy coding in my spare time. I enjoy coding because it allows you to realise your own ideas and bring new and unique things to life.
+Hello, my name is **Fyffes**. I come from **Munich** and enjoy coding in my spare time. I enjoy coding because it allows you to realise **your own ideas** and bring new and unique things to **life**.
 
 - 🌍 I am based in beautiful **Munich, Germany**
 - 🚀 Loves the whole **Universe & Secrets** out there.
